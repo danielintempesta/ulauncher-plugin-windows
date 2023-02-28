@@ -3,7 +3,7 @@
     "name": "Window select",
     "description": "Select from a list of open windows",
     "developer_name": "Paulius Sukys",
-    "icon": "images/icon.png",
+    "icon": "images/app.svg",
     "options": {
       "query_debounce": 0.01
     },
